@@ -1,5 +1,5 @@
 
-<h1 align="center"> <b>🔥 Hexzy 🙈</b>
+    <h1 align="center"> <b>🔥 ELENA 🙈</b>
 
 <h4 align="center">A Powerful, Smart And Advance  Group Manager Bot On Telegram <br> ... Written with AioGram , Pyrogram , Telethon and Python  ...</h4>
 
@@ -7,18 +7,18 @@
 # 🤩🤩🤩
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-<p align="center"><a href="https://t.me/HitechRocket"><img src="https://telegra.ph/file/b41dfb16ec665a841f884.png" width="800"></a></p>
+<p align="center"><a href="https://t.me/TharuBots"><img src="https://telegra.ph/file/91172110df2a84e882c4b.png" width="800"></a></p>
 
 ### Self-hosting  (Vps or Statics Desktop)
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/Prabhasha-p/HexzyBot
-$ cd HexzyBot
+$ git clone https://github.com/TharukaLiyanage/ElenaBot
+$ cd ELENA
 # Upgrade sources
 $ bash deploy.sh
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
-# Rename ./HexzyBot/data/bot_conf.yaml.example to bot_conf.yaml and fill
+# Rename ./ElenaBot/data/bot_conf.yaml.example to bot_conf.yaml and fill
 # Start Bot 
 $ python(3) -m HexzyBot
 ```
@@ -38,19 +38,3 @@ $ python(3) -m HexzyBot
     [-] RMBG_API:You Can Get It From remove.bg 
 [+] The Hexzy won't run without setting the mandatory vars.
 ```
-
-#  Credits
-
- - [LailaRObot](https://github.com/QueenArzoo/LaylaRobot)
- - [DaisyX](https://gitlab.com/TeamDaisyX/DaisyX)
- - [WilliamButcherBot](https://github.com/thehamkercat/WilliamButcherBot)
- - [FridayUserbot](https://github.com/DevsExpo/FridayUserbot)
- - [MissJuliaRobot](https://github.com/MissJuliaRobot/MissJuliaRobot)
- - [Image-Editor](https://github.com/TroJanzHEX/Image-Editor/)
- - [Utah](https://github.com/minatouzuki/utah)
-
-## Special Credits 😍
-- [InukaAsith](github.com/inukaasith)
-- [Legend-X-Raj](github.com/LegendX-Raj)
-- [QueenArzoo](github.com/QueenArzoo)
-- [TheHamkerCat](github.com/thehamkercat)
